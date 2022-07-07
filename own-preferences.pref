@@ -1,0 +1,43 @@
+Package: lxpanel
+Pin: origin deb.debian.org
+Pin-Priority: 1001
+
+Package: lxpanel-data
+Pin: origin deb.debian.org
+Pin-Priority: 1001
+
+Package: libfm4
+Pin: origin deb.debian.org
+Pin-Priority: 1001
+
+Package: libfm-gtk4
+Pin: origin deb.debian.org
+Pin-Priority: 1001
+
+Package: libfm-gtk-data
+Pin: origin deb.debian.org
+Pin-Priority: 1001
+
+Package: libfm-data
+Pin: origin deb.debian.org
+Pin-Priority: 1001
+
+Package: libfm-modules
+Pin: origin deb.debian.org
+Pin-Priority: 1001
+
+Package: libfm-extra
+Pin: origin deb.debian.org
+Pin-Priority: 1001
+
+Package: lxpolkit
+Pin: origin deb.debian.org
+Pin-Priority: 1001
+
+Package: lxsession-data     
+Pin: origin deb.debian.org
+Pin-Priority: 1001
+
+Package: pcmanfm
+Pin: origin deb.debian.org
+Pin-Priority: 1001
